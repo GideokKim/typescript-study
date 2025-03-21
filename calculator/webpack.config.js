@@ -6,7 +6,7 @@ module.exports = {
     output: {
         path: path.resolve(__dirname, 'dist'),
         filename: 'bundle.js',
-        publicPath: process.env.NODE_ENV === 'production' ? '/calculator/' : '/'
+        publicPath: process.env.NODE_ENV === 'production' ? '/typescript-study/calculator/' : '/'
     },
     module: {
         rules: [

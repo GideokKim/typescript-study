@@ -2,7 +2,7 @@
   "name": "calculator",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://gideokkim.github.io/calculator",
+  "homepage": "https://gideokkim.github.io/typescript-study/calculator",
   "scripts": {
     "start": "webpack serve --mode development --open",
     "build": "NODE_ENV=production webpack --mode production",
